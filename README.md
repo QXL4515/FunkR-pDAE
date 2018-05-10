@@ -24,4 +24,4 @@ The step is model training and feature vector generation. We call the torch pack
 
 Instructions
 ==================================================================================
-Some other experimental operations we completed through mysql and excel.
+Some other experimental operations we completed through mysql ,matlab and excel.
